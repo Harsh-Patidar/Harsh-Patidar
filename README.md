@@ -21,6 +21,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br>
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) <br>
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)<br>
+![OpenCV](![1989965](https://github.com/Harsh-Patidar/Harsh-Patidar/assets/110400713/3be19e50-5008-4b65-9bf0-91e652389a39))
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsh-Patidar&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Patidar&theme=vision-friendly-dark&hide_border=true)<br/>
