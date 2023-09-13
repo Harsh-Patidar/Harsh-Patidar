@@ -1,5 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=Harsh-Patidar&label=I%20look%20for%20an%20opportunity%20where%20I%20can%20focus%20on%20a%20challenging%20career%20in%20the%20tech%20environment%20where%20my%20knowledge%20experience%20can%20be%20shared.&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Harsh-Patidar&label=I%20look%20for%20an%20opportunity%20where%20I%20can%20focus%20on%20a%20challenging%20career%20in%20the%20tech%20environment%20where%20my%20knowledge%20experience%20can%20be%20shared.&color=2&icon=1&pretty=true" />
+</a>
+
 # Hi! 👋🏻,I'm Harsh Patidar
 
 ### 💫 About Me:
