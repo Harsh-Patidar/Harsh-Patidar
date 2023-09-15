@@ -1,7 +1,5 @@
 # Hi! 👋🏻,I'm Harsh Patidar
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Harsh-Patidar&label=I%20look%20for%20an%20opportunity%20where%20I%20can%20focus%20on%20a%20challenging%20career%20in%20the%20tech%20environment%20where%20my%20knowledge%20experience%20can%20be%20shared.&color=2&icon=1&pretty=true" />
-</a>
+
 
 ### 💫 About Me:
 🔭 I’m currently working on Machine Learning, Data Structure and Algorithm.<br>👯 I’m looking to collaborate on Machine Learning and Web Development Projects.<br>🌱 I’m currently learning Web Development<br>💬 Ask me about my genuine interest in machine learning and Python programming, coupled with my practical experiences, drives me to pursue opportunities where I can apply and expand my knowledge in these areas.
